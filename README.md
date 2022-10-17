@@ -40,3 +40,6 @@ CALCULATE(
 )
 ```
 
+## Final Example Output:
+![ScreenShot](https://github.com/NavarroAlex/Time-Intelligence-DAX-DATESBETWEEN/blob/5666bff6d2e27706de3409fc0454e995d9cd28db/Final%20Example.png)
+
