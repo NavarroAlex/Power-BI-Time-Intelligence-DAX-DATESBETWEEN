@@ -4,3 +4,6 @@
 
 ## Author
 [alex.navarro@danone.com]
+
+## Link to Microsoft DAX Documentation:
+https://learn.microsoft.com/en-us/dax/datesbetween-function-dax
