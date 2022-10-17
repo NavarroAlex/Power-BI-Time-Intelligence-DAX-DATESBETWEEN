@@ -18,3 +18,10 @@ DATESBETWEEN(<Dates>, <StartDate>, <EndDate>)
 
 ## Parameters:
 ![ScreenShot](https://github.com/NavarroAlex/Time-Intelligence-DAX-DATESBETWEEN/blob/main/Parameter%20Values.png)
+
+## Demonstration:
+* Dataset to use is the "300. Order to Cash Dataset"
+* Columns to use:
+    - Gross Sales
+    - Bill Date
+
