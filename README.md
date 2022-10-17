@@ -7,3 +7,13 @@
 
 ## Link to Microsoft DAX Documentation:
 [https://learn.microsoft.com/en-us/dax/datesbetween-function-dax]
+
+## DATESBETWEEN DAX Definition:
+Returns a table that contains a column of dates that begins with a specified start date and continues until a specified end date.
+
+## Syntax:
+```
+DATESBETWEEN(<Dates>, <StartDate>, <EndDate>)
+```
+
+## Parameters:
