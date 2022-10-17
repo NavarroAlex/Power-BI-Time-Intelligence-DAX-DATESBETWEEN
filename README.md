@@ -25,3 +25,18 @@ DATESBETWEEN(<Dates>, <StartDate>, <EndDate>)
     - Gross Sales
     - Bill Date
 
+DAX Code:
+```
+Mid Season Sales = 
+-- calculate
+CALCULATE(
+    -- sum total sales: round two decimal places:
+    ROUND(SUM('`Order to Cash'[Gross Sales]),2),
+    -- input dates between:
+    DATESBETWEEN('Bill Date'[Bill Date],
+    DATE(2022, 10, 01),
+    DATE(2022, 10, 18)
+    )
+)
+```
+
