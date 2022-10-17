@@ -17,3 +17,4 @@ DATESBETWEEN(<Dates>, <StartDate>, <EndDate>)
 ```
 
 ## Parameters:
+![ScreenShot](https://github.com/NavarroAlex/Time-Intelligence-DAX-DATESBETWEEN/blob/main/Parameter%20Values.png)
